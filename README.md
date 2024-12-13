@@ -1,5 +1,7 @@
 # estop
 
+![demo](https://github.com/user-attachments/assets/a3ffa9a0-6af1-4692-a9fb-a3e4400ac155)
+
 ## Overview
 estop is a proof-of-concept project for monitoring Elasticsearch (ES). This project is written entirely in Rust and aims to provide efficient and reliable monitoring capabilities for Elasticsearch environments.
 
